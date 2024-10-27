@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: rgb(12, 76, 76);
+}
+body{
+    background-color: rgb(26, 205, 202);
+}
+
+img{
+    border: 2px solid #e00404;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
